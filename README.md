@@ -12,8 +12,6 @@ Hi there, I'm Max! 👋<br><br>I'm an 18-year-old tech enthusiast and student at
 ![](https://streak-stats.demolab.com/?user=X3lyz3&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=X3lyz3&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=X3lyz3&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
